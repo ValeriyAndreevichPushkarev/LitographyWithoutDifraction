@@ -4,11 +4,11 @@ Litography based on coherence
 Why you don't use holographic lithography?
 You will get interference only in places where two coherent beams intersect each other. (Yes, down to atom i guess)
 
-Lloyd's mirror for example. 
+Lloyd's mirror for example. Or you can use biprism.
 
 You will see no interference in places where you don't have direct and refracted rays.
 
-You can control interference with optical path length. (To make a mask)
+You can control interference with optical path length. (To make a mask on biprism/LLoyd\s mirror)
 
 And you don't have any diffraction at all.
 
