@@ -14,7 +14,7 @@ And you don't have any diffraction at all.
 
 Space can be limited down to several atoms. (size of the resulted elements, not positioning elements within 2 nm)
 
-Note that space of coherence not limited with wavelength(and L/4).
+Note that space of coherence not limited with wavelength(and L/4) and energy of photons (and radius of moving of atoms because of heat).
 
 And you can change optical path length(and phase) with different materials.
 
