@@ -31,4 +31,3 @@ Four mirrors can give you 10^6.
 
 Or 1 nm of result elements on IR wavelength.
 
-https://coub.com/view/492rp3
